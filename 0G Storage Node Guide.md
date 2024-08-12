@@ -1,5 +1,6 @@
-This article will help you install and run Storage Node 0g labs. Just follow these steps and you will definitely succeed
+### This article will help you install and run Storage Node 0g labs. Just follow these steps and you will definitely succeed
 
+![](https://github.com/borderland4/0g-guides/blob/main/0g-testnet-v2-network.png)
 
 ### Hardware Requirement
 - Memory: 16 GB RAM
